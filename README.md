@@ -1,18 +1,20 @@
-# 📝 To-Do App Dashboard
+## 📝To-Do App Dashboard
 
-A modern **full-stack To-Do application** built using the MERN stack with a colorful dashboard UI, animations, and user-friendly design.
+A modern **Full-stack To-Do application** built using the MERN stack with a colorful dashboard UI, animations, and user-friendly design.
 
 This project demonstrates authentication, task management, and a personalized dashboard experience using React, Tailwind CSS, Node.js, and MongoDB.
 
 This project allows users to securely manage tasks with authentication, filtering, and a personalized dashboard experience.
 
----
+</br>
+
 
 ## 🚀 Live Demo
 
-🌐 Frontend: 
+🌐 https://my-task-desk.netlify.app 
 
----
+</br>
+
 
 ## ✨ Features
 
@@ -24,7 +26,8 @@ This project allows users to securely manage tasks with authentication, filterin
 * ⚡ Smooth animations using Framer Motion
 * 📱 Responsive design
 
----
+</br>
+
 
 ## 🛠️ Tech Stack
 
@@ -42,13 +45,15 @@ This project allows users to securely manage tasks with authentication, filterin
 * MongoDB Atlas
 * JWT Authentication
 
----
+</br>
+
 
 ## 💡 About This Project
 
 This project was built as a full-stack application to demonstrate real-world authentication flows, API integration, dashboard UI design, and responsive layouts.
 
----
+</br>
+
 
 ## 👩‍💻 Author
 
